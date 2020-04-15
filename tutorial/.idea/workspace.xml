@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a36af14d-2796-4814-bef6-45f14c4a1b9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tutorial" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aLptCUa50BpGknSTkG06aGDnzO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+  </component>
+  <component name="RunManager">
+    <configuration name="forms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/account" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/account/forms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.forms" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a36af14d-2796-4814-bef6-45f14c4a1b9c" name="Default Changelist" comment="" />
+      <created>1586524940774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586524940774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="24" key="#forms" timestamp="1586617717303">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="347" y="24" key="#forms/0.0.1280.800@0.0.1280.800" timestamp="1586617717303" />
+    <state x="347" y="24" key="#views" timestamp="1586626061089">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="347" y="24" key="#views/0.0.1280.800@0.0.1280.800" timestamp="1586626061089" />
+    <state x="42" y="18" key="SettingsEditor" timestamp="1586884008634">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="42" y="18" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1586884008634" />
+    <state x="296" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1586934476662">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="296" y="237" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1586934476662" />
+    <state x="296" y="234" key="com.intellij.ide.util.TipDialog/0.23.1280.712@0.23.1280.712" timestamp="1586585900926" />
+    <state x="296" y="234" key="com.intellij.ide.util.TipDialog/0.23.1280.714@0.23.1280.714" timestamp="1586877229559" />
+  </component>
+</project>

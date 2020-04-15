@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>profile</title>
+</head>
+<body>
+{% block content1 %}
+<div class="container">
+
+<p>username: {{user}}</p>
+<div><img src="{{user.userprofile.image.url}}" width="300"></div>
+<br/>
+    <p>first name : {{user.first_name}}</p>
+     <p>last name : {{user.last_name}}</p>
+    <p>email : {{user.email}}</p>
+     <p>description : {{user.userprofile.description}}</p>
+    <hr/>
+    <p>city : {{user.userprofile.city}}</p>
+    <p>website : {{user.userprofile.website}}</p>
+    <p>description : {{user.userprofile.description}}</p>
+
+
+</div>
+{% endblock%}
+</body>
+</html>
